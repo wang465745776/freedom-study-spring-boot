@@ -1,4 +1,4 @@
-package com.wangguitang.freedom.study.springboot.hello.world;
+package com.wangguitang.freedom.study.h2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
